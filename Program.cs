@@ -6,5 +6,10 @@
         {
             Console.WriteLine("master, World!");
         }
+
+        static void Sample()
+        {
+            Console.WriteLine("master, World!");
+        }
     }
 }
