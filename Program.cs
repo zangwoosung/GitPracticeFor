@@ -9,7 +9,7 @@
 
         static void Sample()
         {
-            Console.WriteLine("master, World!");
+            Console.WriteLine("I am dandan software");
         }
     }
 }
