@@ -4,14 +4,12 @@
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("dandan , World!");
+            Console.WriteLine("master, World!");
         }
 
-        static void ssample(string[] args)
+        static void Sample()
         {
-            Console.WriteLine("committo remove");
+            Console.WriteLine("I am dandan software branch ");
         }
-
-
     }
 }
