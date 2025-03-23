@@ -9,7 +9,7 @@
 
         static void ssample(string[] args)
         {
-            Console.WriteLine("dandan , World!");
+            Console.WriteLine("committo remove");
         }
 
 
