@@ -1,2 +1,0 @@
-# GitPracticeFor
-Please read me 
