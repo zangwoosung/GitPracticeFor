@@ -6,5 +6,12 @@
         {
             Console.WriteLine("dandan , World!");
         }
+
+        static void ssample(string[] args)
+        {
+            Console.WriteLine("dandan , World!");
+        }
+
+
     }
 }
